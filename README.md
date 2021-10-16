@@ -10,6 +10,11 @@
 - ⚡ Fun fact: ...
 
 <details>
-	<summary> More about my code</summary>
+<summary> More about my code</summary>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thirteenpylons&layout=compact&hide=css,html)
+
+
+![thirteenpylons's github stats](https://github-readme-stats.vercel.app/api?username=thirteenpylons&count_private=true&show_icons=true&theme=onedark)
+
 </details>
