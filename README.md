@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Hi there
 
 - 🔭 I’m currently working on proprietary network automation projects.
@@ -10,3 +11,21 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thirteenpylons&layout=compact&hide=css,html)
+=======
+### Hi there 👋
+
+<!--
+**thirteenpylons/thirteenpylons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 558410358ba190731b111af36465d0db39efcd1e
