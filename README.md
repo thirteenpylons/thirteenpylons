@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-### Hi there
+### Hello friend
 
 - 🔭 I’m currently working on proprietary network automation projects.
 - 🌱 I’m currently learning Python, Rust, Javascript, Golang...
@@ -10,7 +9,7 @@
 - ⚡ Fun fact: ...
 
 <details>
-<summary> More about my code</summary>
+<summary> More about my github</summary>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thirteenpylons&layout=compact&hide=css,html)
 
