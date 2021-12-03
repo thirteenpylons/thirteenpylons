@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with being part of the community.
 - 💬 Ask me about Python
 - 📫 How to reach me: Telegram: @Frietzche
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Rabbits can't puke.
 
 <details>
 <summary> More about my github</summary>
