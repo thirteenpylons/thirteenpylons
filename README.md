@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on anything that is useful.
 - 🤔 I’m looking for help with being part of the community.
 - 💬 Ask me about Python
-- 📫 How to reach me: ...
+- 📫 How to reach me: Telegram: @Frietzche
 - ⚡ Fun fact: ...
 
 <details>
