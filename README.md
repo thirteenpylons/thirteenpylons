@@ -1,8 +1,8 @@
 ### Hello friend
 
-- 🔭 I’m currently working on proprietary network automation projects.
-- 🌱 I’m currently learning Python, Rust, Javascript, Golang...
-- 👯 I’m looking to collaborate on anything that is useful.
+- 🔭 I’m currently working on proprietary network automation projects and benfordpy.
+- 🌱 I’m currently learning Python, Java, Javascript, Golang...
+- 👯 I’m looking to collaborate on anything that is useful and written clean.
 - 🤔 I’m looking for help with being part of the community.
 - 💬 Ask me about Python
 - 📫 How to reach me: Telegram: @Frietzche
