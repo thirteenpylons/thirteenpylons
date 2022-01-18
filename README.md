@@ -1,7 +1,7 @@
 ### Hello friend
 
 - 🔭 I’m currently working on proprietary network automation projects and benfordpy.
-- 🌱 I’m currently learning Python, Java, Javascript, Golang...
+- 🌱 I’m currently learning Python, Java, Javascript, Rust, Golang...
 - 👯 I’m looking to collaborate on anything that is useful and written clean.
 - 🤔 I’m looking for help with being part of the community.
 - 💬 Ask me about Python
